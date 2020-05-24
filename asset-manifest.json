@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ravenous/static/css/main.8b316694.chunk.css",
+    "main.js": "/ravenous/static/js/main.2f0443d8.chunk.js",
+    "main.js.map": "/ravenous/static/js/main.2f0443d8.chunk.js.map",
+    "runtime-main.js": "/ravenous/static/js/runtime-main.80268069.js",
+    "runtime-main.js.map": "/ravenous/static/js/runtime-main.80268069.js.map",
+    "static/js/2.0191b2a8.chunk.js": "/ravenous/static/js/2.0191b2a8.chunk.js",
+    "static/js/2.0191b2a8.chunk.js.map": "/ravenous/static/js/2.0191b2a8.chunk.js.map",
+    "index.html": "/ravenous/index.html",
+    "precache-manifest.a406cd78a77c88f7910a0358431830aa.js": "/ravenous/precache-manifest.a406cd78a77c88f7910a0358431830aa.js",
+    "service-worker.js": "/ravenous/service-worker.js",
+    "static/css/main.8b316694.chunk.css.map": "/ravenous/static/css/main.8b316694.chunk.css.map",
+    "static/js/2.0191b2a8.chunk.js.LICENSE.txt": "/ravenous/static/js/2.0191b2a8.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/ravenous/static/media/background_search_mobile.5d0905e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80268069.js",
+    "static/js/2.0191b2a8.chunk.js",
+    "static/css/main.8b316694.chunk.css",
+    "static/js/main.2f0443d8.chunk.js"
+  ]
+}
